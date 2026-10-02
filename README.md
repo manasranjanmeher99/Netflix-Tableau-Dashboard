@@ -98,8 +98,8 @@ Netflix-Tableau-Dashboard/
 ├── Screenshots/
 │   └── Netflix_dashboard.png
 │
-└── Assets/
-    └── Netflix logo.png
+└── Netflix logo.png
+  
 ```
 
 > If your Tableau workbook is `.twb` instead of `.twbx`, replace the
